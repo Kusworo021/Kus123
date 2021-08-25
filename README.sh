@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Kusworo021
-- 👀 I’m interested in kumpulan
-- 🌱 I’m currently learning kumpulan
-- 💞️ I’m looking to collaborate on kumpulan
-- 📫 How to reach me kumpulan
+-pkg update && pkg upgrade
+- 👀 pkg install python2
+- 🌱 pkg install git
+- 💞️ git clone https://github.com/kus123/readme.sh
+- 📫 cd 
+     cd kusw123-readme.sh
+     sh readme.sh
 
-<!-kumpulan
-Kusworo021/Kusworo021 is a ✨ special ✨ repository because its `README.sh` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<
